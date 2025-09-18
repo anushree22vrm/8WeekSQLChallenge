@@ -2,5 +2,5 @@ Solving SQL problems is a great way to learn SQL. The 8 Week SQL Challenge provi
 
 
 # 1 Danny's Diner
-Problem Statement: https://8weeksqlchallenge.com/case-study-1/
-Solution:
+Problem Statement: [link](https://8weeksqlchallenge.com/case-study-1/)
+<br> Solution: [link](https://github.com/anushree22vrm/8WeekSQLChallenge/blob/main/DannysDinerCaseStudy.sql)
