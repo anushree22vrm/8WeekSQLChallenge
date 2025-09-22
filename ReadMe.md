@@ -7,4 +7,4 @@ Problem Statement: [link](https://8weeksqlchallenge.com/case-study-1/)
 
 ## 2. Pizza Runner
 Problem Statement: [link] (https://8weeksqlchallenge.com/case-study-2/)
-<br> Solution:  [link]
+<br> Solution:  [link] (https://github.com/anushree22vrm/8WeekSQLChallenge/blob/main/PizzaRunnerCaseStudy.sql)
